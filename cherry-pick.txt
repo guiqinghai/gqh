@@ -1,0 +1,1 @@
+git cherry-pick <commit_id> 将其他的提交提交到本地分支上   
